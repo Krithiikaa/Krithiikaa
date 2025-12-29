@@ -9,9 +9,7 @@
 <h1 align="center">Hi, I'm Krithiikaa 👋</h1>
 <h3 align="center">Creative Coder & Builder of Interactive Web Experiences</h3>
 
-<p align="center">
-  <img width="300" src="https://github.com/Krithiikaa/Krithiikaa/raw/main/profile-header.svg" alt="Krithiikaa Header Graphic"/>
-</p>
+
 
 <p align="center">
   Hi there! I'm passionate about web dashboards, simulations, real-time UI experiences, and projects that combine *UX + real world data*. I build things that solve problems, visualize ideas, and learn along the way.
@@ -37,86 +35,83 @@
 
 ---
 
-## 🐍 My Contribution Snake
-
-<p align="center">
-  <!-- Contribution Snake Animation -->
-  <img width="500" src="https://github.com/Krithiikaa/Krithiikaa/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
 ```plaintext
 HTML · CSS · JavaScript · TypeScript · Python · React · Node.js · Chart.js · D3.js · Git · REST APIs
 ```
-💻 Projects (Pinned & Featured)
+## 💻 Projects (Pinned & Featured)
 
-Below are some of my key repositories — dashboards, simulations, and real-time tools demonstrating UI + data skills:
+Below are some of my key repositories — **dashboards, simulations, and real-time tools** demonstrating strong **UI + data skills**.
 
-🔧 Dashboards & Tools
+---
 
-GPS Map With Range Finder Dashboard – Real-time dashboard for GPS & sensor UI
+### 🔧 Dashboards & Tools
+- **GPS Map With Range Finder Dashboard**  
+  Real-time dashboard for GPS and sensor-based UI
 
-RangeFinder Dashboard – A responsive dashboard with live data feed
+- **RangeFinder Dashboard**  
+  Responsive dashboard with live data feed simulation
 
-Air Quality Sensor Dashboard Simulation – Air quality visualization UI
+- **Air Quality Sensor Dashboard Simulation**  
+  Interactive air-quality visualization interface
 
-Predictive Hiring with AI – Python ML project for hiring predictions
+- **Predictive Hiring with AI**  
+  Python-based machine learning project for hiring predictions
 
-Fog Remover – Image UI tool for enhancing photos
+- **Fog Remover**  
+  Image enhancement UI tool
 
-📱 HTML, CSS & Web Apps
+---
 
-UCEK Attendance APP – Attendance interface using vanilla HTML/CSS/JS
+### 📱 HTML, CSS & Web Apps
+- **UCEK Attendance App**  
+  Attendance management interface using vanilla HTML, CSS, and JavaScript
 
-CreditBridge-UX-CaseStudy – UI case study for credit app
+- **CreditBridge – UX Case Study**  
+  End-to-end UI/UX case study for a credit application
 
-Military Surveillance UI (v1 & v2) – TypeScript dashboards for surveillance
+- **Military Surveillance UI (v1 & v2)**  
+  TypeScript-based dashboards for surveillance systems
 
-📊 Academic & Utility Repos
+---
 
-Algorithm Programs – Jupyter notebooks of algorithm tasks
+### 📊 Academic & Utility Repositories
+- **Algorithm Programs**  
+  Jupyter notebooks covering algorithmic problem solving
 
-DBMS Projects – Coursework DBMS interfaces
+- **DBMS Projects**  
+  Database management system coursework implementations
 
-AIML – AI/ML practice notebooks
+- **AIML**  
+  AI and machine learning practice notebooks
 
-Note: You can pin these repos in your GitHub profile to make them visually prominent. 
-GitHub
+> 📌 *Tip: Pin key repositories on your GitHub profile for better visibility.*
 
-📎 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/krithikaa-rajkumaar/"><img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:your.email@example.com"><img height="40" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
-📌 Let’s Build Together
+---
 
-Thanks for stopping by! I’m always exploring new ideas and ready to collaborate on open-source and web experiences.
+## 📎 Connect With Me
 
-“Code with purpose, design with empathy.”
+<p align="center">
+  <a href="https://www.linkedin.com/in/krithikaa-rajkumaar/">
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img height="40" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-OPTIONAL ENHANCEMENTS (Tell me what you want)
+---
 
-I can add any of the following:
+## 📌 Let’s Build Together
 
-Animated typing intro
+- Open to collaboration on **dashboards, system UIs, and data-driven web apps**
+- Always exploring **new ideas, tools, and open-source opportunities**
 
-GitHub trophies
+> **“Code with purpose, design with empathy.”**
 
-Visitor counter
+---
 
-Latest blog posts or Twitter feed
 
-Technology badges by skill section
 
-Dark/Light mode support
-
-Just tell me which ones you want. 
-GitHub
-
-Installation / Setup for Contribution Snake (if wanted)
-
-Add a GitHub Action using the snk action to generate the snake animation.
-
-Create a branch called output and commit the generated SVGs there.
-
-Link them in the README as above.
