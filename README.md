@@ -12,7 +12,9 @@
 
 
 <p align="center">
-  Hi there! I'm passionate about web dashboards, simulations, real-time UI experiences, and projects that combine *UX + real world data*. I build things that solve problems, visualize ideas, and learn along the way.
+
+  I design and build **real-world inspired dashboards, system interfaces, and intelligent web applications** that sit at the intersection of **UI, data, and engineering**. My work focuses on **real-time visualization, simulations, AI-assisted tools, and problem-driven design** — translating complex ideas into clear, usable systems while continuously learning and iterating.
+
 </p>
 
 ---
