@@ -97,7 +97,7 @@ Below are some of my key repositories — **dashboards, simulations, and real-ti
   <a href="https://www.linkedin.com/in/kiruthigaa-k/">
     <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:krithikaarajkumaar@gmail.com">
+  <a href="krithikaarajkumaar@gmail.com">
     <img height="40" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
