@@ -39,7 +39,7 @@
 ## 🛠️ Tech Stack
 
 ```plaintext
-HTML · CSS · JavaScript · TypeScript · Python · React · Node.js · Chart.js · D3.js · Git · REST APIs
+HTML · CSS · JavaScript · TypeScript · Python · React · Node.js · Chart.js · Django · Git · REST APIs
 ```
 ## 💻 Projects (Pinned & Featured)
 
@@ -87,17 +87,16 @@ Below are some of my key repositories — **dashboards, simulations, and real-ti
 - **AIML**  
   AI and machine learning practice notebooks
 
-> 📌 *Tip: Pin key repositories on your GitHub profile for better visibility.*
 
 ---
 
 ## 📎 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/krithikaa-rajkumaar/">
+  <a href="https://www.linkedin.com/in/kiruthigaa-k/">
     <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:krithikaarajkumaar@gmail.com">
     <img height="40" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
