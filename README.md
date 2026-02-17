@@ -1,36 +1,25 @@
-<!-- 🦊 Animated MetaMask-Style Fox Behind Name -->
+<!-- ✦ Professional Header with Gradient Wave -->
 <p align="center">
-  <a href="https://github.com/Krithiikaa">
-    <img src="./assets/metamask-fox.svg" width="420" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Kiruthigaa%20K&fontSize=80&fontColor=f368e0&animation=scaleIn&fontAlignY=50&desc=@Krithiikaa%20%E2%80%A2%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Creator&descAlignY=85&descSize=18&descColor=c9d1d9" width="100%" />
-</div>
-
-<!-- Animated Neon Bar -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b6b,20:ee5a24,40:f368e0,60:6c5ce7,80:0abde3,100:10ac84&height=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:16213e,60:0f3460,100:533483&height=250&section=header&text=Kiruthigaa%20K&fontSize=72&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A7%20%40Krithiikaa%20%E2%80%A2%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Creator%20%E2%9C%A7&descAlignY=55&descSize=18&descColor=c4b5fd" width="100%" />
 </p>
 
 <div align="center">
 
-<!-- Animated Typing SVG - Fixed Width -->
+<!-- Animated Typing SVG -->
 <a href="https://github.com/Krithiikaa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=F368E0&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=80&lines=%F0%9F%9A%80+Computer+Science+Engineer+%7C+Full-Stack+Developer+%7C+System+Designer;%E2%9C%A8+Building+real-world+systems+that+matter+%E2%80%94+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=80&lines=%F0%9F%9A%80+Computer+Science+Engineer+%7C+Full-Stack+Developer+%7C+System+Designer;%E2%9C%A8+Building+real-world+systems+that+matter+%E2%80%94+one+commit+at+a+time" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Vibrant Role Tags -->
-<img src="https://img.shields.io/badge/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB_TECH--DRIVEN_WOMAN-ff6b6b?style=for-the-badge&labelColor=2d3436" />
-<img src="https://img.shields.io/badge/%E2%9A%A1_SHAPING_SYSTEMS-f368e0?style=for-the-badge&labelColor=2d3436" />
-<img src="https://img.shields.io/badge/%F0%9F%94%A5_WITH_PRECISION_&_PURPOSE-6c5ce7?style=for-the-badge&labelColor=2d3436" />
+<!-- Professional Role Tags -->
+<img src="https://img.shields.io/badge/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB_TECH--DRIVEN_WOMAN-c4b5fd?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/%E2%9A%A1_SHAPING_SYSTEMS-93c5fd?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/%F0%9F%94%A5_WITH_PRECISION_&_PURPOSE-f9a8d4?style=for-the-badge&labelColor=1a1a2e" />
 
 <br/><br/>
 
-<!-- Social Links - Colorful -->
+<!-- Social Links -->
 <a href="https://www.linkedin.com/in/krithikaa-rajkumaar/">
   <img src="https://img.shields.io/badge/-Krithikaa_Rajkumaar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -38,16 +27,16 @@
   <img src="https://img.shields.io/badge/-21_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/Krithiikaa?tab=followers">
-  <img src="https://img.shields.io/badge/-Followers-ff6b6b?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Followers-c4b5fd?style=for-the-badge&logo=githubsponsors&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Krithiikaa&style=for-the-badge&color=f368e0&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=Krithiikaa&style=for-the-badge&color=93c5fd&label=VISITORS" />
 
 </div>
 
 <br/>
 
-<!-- Rainbow Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Elegant Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -126,8 +115,8 @@ export default Krithiikaa;
 
 <br/>
 
-<!-- Rainbow Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Elegant Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -194,8 +183,8 @@ export default Krithiikaa;
 
 <br/>
 
-<!-- Rainbow Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Elegant Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -208,57 +197,57 @@ export default Krithiikaa;
 
 <td align="center" width="25%" valign="top">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="40" />
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50" />
 <br/>
 <b>Dashboards</b>
 <br/><br/>
 <sub>Real-time data visualization<br/>systems that monitor,<br/>alert, and inform with<br/>live data feeds &<br/>interactive charts</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/-GPS_Tracker-ff6b6b?style=flat-square" />
-<img src="https://img.shields.io/badge/-Air_Quality-10ac84?style=flat-square" />
-<img src="https://img.shields.io/badge/-RangeFinder-0abde3?style=flat-square" />
+<img src="https://img.shields.io/badge/-GPS_Tracker-c4b5fd?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/-Air_Quality-86efac?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/-RangeFinder-93c5fd?style=flat-square&labelColor=1a1a2e" />
 
 </td>
 
 <td align="center" width="25%" valign="top">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="40" />
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="50" />
 <br/>
 <b>Web Apps</b>
 <br/><br/>
 <sub>Full-stack applications<br/>with React, Node.js,<br/>MongoDB & Socket.IO<br/>featuring real-time<br/>communication</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/-HelpDesk-f368e0?style=flat-square" />
-<img src="https://img.shields.io/badge/-NEXUS_EDU-6c5ce7?style=flat-square" />
-<img src="https://img.shields.io/badge/-Library_Mgmt-0abde3?style=flat-square" />
+<img src="https://img.shields.io/badge/-HelpDesk-f9a8d4?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/-NEXUS_EDU-c4b5fd?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/-Library_Mgmt-93c5fd?style=flat-square&labelColor=1a1a2e" />
 
 </td>
 
 <td align="center" width="25%" valign="top">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="40" />
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="50" />
 <br/>
 <b>AI & ML</b>
 <br/><br/>
 <sub>Machine learning pipelines,<br/>prediction systems,<br/>computer vision tools<br/>& intelligent<br/>automation</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/-Predictive_AI-ee5a24?style=flat-square" />
-<img src="https://img.shields.io/badge/-Fog_Remover-10ac84?style=flat-square" />
-<img src="https://img.shields.io/badge/-AIML-6c5ce7?style=flat-square" />
+<img src="https://img.shields.io/badge/-Predictive_AI-fcd34d?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/-Fog_Remover-86efac?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/-AIML-c4b5fd?style=flat-square&labelColor=1a1a2e" />
 
 </td>
 
 <td align="center" width="25%" valign="top">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="40" />
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" />
 <br/>
 <b>UI/UX Design</b>
 <br/><br/>
 <sub>Crafting clean, intuitive<br/>interfaces with<br/>accessibility & empathy<br/>at the core of<br/>every design</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/-CreditBridge-ff6b6b?style=flat-square" />
-<img src="https://img.shields.io/badge/-Military_UI-2d3436?style=flat-square" />
-<img src="https://img.shields.io/badge/-Attendance-f368e0?style=flat-square" />
+<img src="https://img.shields.io/badge/-CreditBridge-f9a8d4?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/-Military_UI-93c5fd?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/-Attendance-fcd34d?style=flat-square&labelColor=1a1a2e" />
 
 </td>
 
@@ -269,8 +258,8 @@ export default Krithiikaa;
 
 <br/>
 
-<!-- Rainbow Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Elegant Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -331,8 +320,8 @@ export default Krithiikaa;
 
 <br/>
 
-<!-- Rainbow Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Elegant Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -341,26 +330,26 @@ export default Krithiikaa;
 <div align="center">
 
 <!-- Stats + Streak Side by Side -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Krithiikaa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f368e0&icon_color=ff6b6b&text_color=c9d1d9&ring_color=f368e0&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Krithiikaa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=93c5fd&text_color=e2e8f0&ring_color=c4b5fd&include_all_commits=true&count_private=true" />
 &nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Krithiikaa&hide_border=true&background=0d1117&stroke=2d3436&ring=f368e0&fire=ff6b6b&currStreakLabel=f368e0&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ff6b6b&sideNums=0abde3" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Krithiikaa&hide_border=true&background=0d1117&stroke=1e293b&ring=c4b5fd&fire=f9a8d4&currStreakLabel=c4b5fd&sideLabels=e2e8f0&dates=94a3b8&currStreakNum=f9a8d4&sideNums=93c5fd" />
 
 <br/><br/>
 
 <!-- Languages Pie -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krithiikaa&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=f368e0&text_color=c9d1d9&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krithiikaa&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e2e8f0&langs_count=8" />
 
 <br/><br/>
 
-<!-- Activity Graph - Colorful -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krithiikaa&bg_color=0d1117&color=f368e0&line=ff6b6b&point=0abde3&area=true&area_color=6c5ce7&hide_border=true&custom_title=%E2%9C%A8%20My%20Contribution%20Universe" width="98%" />
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krithiikaa&bg_color=0d1117&color=c4b5fd&line=93c5fd&point=f9a8d4&area=true&area_color=533483&hide_border=true&custom_title=%E2%9C%A8%20My%20Contribution%20Universe" width="98%" />
 
 </div>
 
 <br/>
 
-<!-- Rainbow Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Elegant Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -368,7 +357,7 @@ export default Krithiikaa;
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=2000&color=FFD700&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%F0%9F%8F%86+Hackathon+Champion+%7C+National+Winner+%7C+Builder" alt="Achievement Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=2000&color=FCD34D&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%F0%9F%8F%86+Hackathon+Champion+%7C+National+Winner+%7C+Builder" alt="Achievement Typing" />
 
 <br/><br/>
 
@@ -376,34 +365,34 @@ export default Krithiikaa;
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/%F0%9F%A5%87_JOINT_WINNER-FFD700?style=for-the-badge&labelColor=2d3436" />
+<img src="https://img.shields.io/badge/%F0%9F%A5%87_JOINT_WINNER-FCD34D?style=for-the-badge&labelColor=1a1a2e" />
 <br/><br/>
-<img src="./assets/sih-2025-winner.jpeg" width="90%" style="border-radius:12px" />
+<img src="./assets/sih-2025-winner.jpeg" width="90%" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Smart_India_Hackathon_2025-0055FF?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Smart_India_Hackathon_2025-533483?style=for-the-badge&labelColor=1a1a2e" />
 <br/>
-<img src="https://img.shields.io/badge/Grand_Finale_%7C_Hardware_Edition-ff6b6b?style=flat-square" />
+<img src="https://img.shields.io/badge/Grand_Finale_%7C_Hardware_Edition-f9a8d4?style=flat-square&labelColor=1a1a2e" />
 <br/>
-<img src="https://img.shields.io/badge/Team_ImpactX_Innovators-10ac84?style=flat-square" />
+<img src="https://img.shields.io/badge/Team_ImpactX_Innovators-86efac?style=flat-square&labelColor=1a1a2e" />
 <br/>
-<img src="https://img.shields.io/badge/%E2%82%B975%2C000_Prize-FFD700?style=flat-square&labelColor=2d3436" />
+<img src="https://img.shields.io/badge/%E2%82%B975%2C000_Prize-FCD34D?style=flat-square&labelColor=1a1a2e" />
 <br/>
 <sub><b>"Hack for BHARAT, Build for the World"</b></sub>
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/%F0%9F%A5%88_2ND_PLACE-C0C0C0?style=for-the-badge&labelColor=2d3436" />
+<img src="https://img.shields.io/badge/%F0%9F%A5%88_2ND_PLACE-e2e8f0?style=for-the-badge&labelColor=1a1a2e" />
 <br/><br/>
-<img src="./assets/innohack-2026-winner.jpeg" width="90%" style="border-radius:12px" />
+<img src="./assets/innohack-2026-winner.jpeg" width="90%" />
 <br/><br/>
-<img src="https://img.shields.io/badge/INNOHACK_2026_%7C_VIT-6c5ce7?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/INNOHACK_2026_%7C_VIT-533483?style=for-the-badge&labelColor=1a1a2e" />
 <br/>
-<img src="https://img.shields.io/badge/AR%2FVR_%26_IoT_Track-f368e0?style=flat-square" />
+<img src="https://img.shields.io/badge/AR%2FVR_%26_IoT_Track-c4b5fd?style=flat-square&labelColor=1a1a2e" />
 <br/>
-<img src="https://img.shields.io/badge/Team_Tech_Mavericks-0abde3?style=flat-square" />
+<img src="https://img.shields.io/badge/Team_Tech_Mavericks-93c5fd?style=flat-square&labelColor=1a1a2e" />
 <br/>
-<img src="https://img.shields.io/badge/%E2%82%B930%2C000_Prize-C0C0C0?style=flat-square&labelColor=2d3436" />
+<img src="https://img.shields.io/badge/%E2%82%B930%2C000_Prize-e2e8f0?style=flat-square&labelColor=1a1a2e" />
 <br/>
 <sub><b>VIT Institution's Innovation Council</b></sub>
 
@@ -414,14 +403,14 @@ export default Krithiikaa;
 <br/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Krithiikaa&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Krithiikaa&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" />
 
 </div>
 
 <br/>
 
-<!-- Rainbow Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Elegant Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -431,7 +420,7 @@ export default Krithiikaa;
 
 ```
                     ╔═══════════════════════════════════════════════╗
-                    ║         🌟 THE KRITHIIKAA TIMELINE 🌟         ║
+                    ║         ✦ THE KRITHIIKAA TIMELINE ✦          ║
                     ╚═══════════════════════════════════════════════╝
                                         │
                     ╭───────────────────────────────────────────╮
@@ -487,8 +476,8 @@ export default Krithiikaa;
 
 <br/>
 
-<!-- Rainbow Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Elegant Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -496,20 +485,20 @@ export default Krithiikaa;
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=2000&color=10AC84&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%F0%9F%92%AC+Open+to+collaboration+on+dashboards+%26+system+UIs;%F0%9F%8C%8D+Always+exploring+new+tools+%26+open-source;%E2%9C%89%EF%B8%8F+Reach+out+on+LinkedIn+%E2%80%94+let's+create+something+amazing!" alt="Collab Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=2000&color=86EFAC&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%F0%9F%92%AC+Open+to+collaboration+on+dashboards+%26+system+UIs;%F0%9F%8C%8D+Always+exploring+new+tools+%26+open-source;%E2%9C%89%EF%B8%8F+Reach+out+on+LinkedIn+%E2%80%94+let's+create+something+amazing!" alt="Collab Typing" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/krithikaa-rajkumaar/">
-  <img src="https://img.shields.io/badge/%F0%9F%92%8C_Let's_Connect-ff6b6b?style=for-the-badge&labelColor=2d3436" height="40" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%8C_Let's_Connect-c4b5fd?style=for-the-badge&labelColor=1a1a2e" height="40" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Krithiikaa?tab=repositories">
-  <img src="https://img.shields.io/badge/%F0%9F%94%AD_Explore_My_Work-f368e0?style=for-the-badge&labelColor=2d3436" height="40" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%AD_Explore_My_Work-93c5fd?style=for-the-badge&labelColor=1a1a2e" height="40" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Krithiikaa">
-  <img src="https://img.shields.io/badge/%E2%AD%90_Star_My_Repos-6c5ce7?style=for-the-badge&labelColor=2d3436" height="40" />
+  <img src="https://img.shields.io/badge/%E2%AD%90_Star_My_Repos-f9a8d4?style=for-the-badge&labelColor=1a1a2e" height="40" />
 </a>
 
 <br/><br/>
@@ -546,12 +535,12 @@ export default Krithiikaa;
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,20:ee5a24,40:f368e0,60:6c5ce7,80:0abde3,100:10ac84&height=150&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:16213e,60:0f3460,100:533483&height=150&section=footer" width="100%" />
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=3000&color=f368e0&center=true&vCenter=true&repeat=true&width=500&height=25&lines=%E2%9C%A8+Thanks+for+visiting!+Star+%E2%AD%90+if+you+liked+my+work!" alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=3000&color=c4b5fd&center=true&vCenter=true&repeat=true&width=500&height=25&lines=%E2%9C%A8+Thanks+for+visiting!+Star+%E2%AD%90+if+you+liked+my+work!" alt="Footer Typing" />
 
 <br/>
 
