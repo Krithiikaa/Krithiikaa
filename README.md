@@ -1,6 +1,13 @@
+<!-- 🦊 Animated MetaMask-Style Fox Behind Name -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&customColorList=12,14,16,18,20,22,24&height=300&section=header&text=Kiruthigaa%20K&fontSize=80&fontColor=f368e0&animation=scaleIn&fontAlignY=38&desc=@Krithiikaa%20%E2%80%A2%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Creator&descAlignY=58&descSize=20&descColor=c9d1d9" width="100%" />
+  <a href="https://github.com/Krithiikaa">
+    <img src="./assets/metamask-fox.svg" width="420" />
+  </a>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Kiruthigaa%20K&fontSize=80&fontColor=f368e0&animation=scaleIn&fontAlignY=50&desc=@Krithiikaa%20%E2%80%A2%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Creator&descAlignY=85&descSize=18&descColor=c9d1d9" width="100%" />
+</div>
 
 <!-- Animated Neon Bar -->
 <p align="center">

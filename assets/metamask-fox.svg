@@ -1,0 +1,213 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
+  <defs>
+    <style>
+      @keyframes headTilt {
+        0%, 100% { transform: rotate(0deg) translateY(0px); }
+        25% { transform: rotate(2.5deg) translateY(-3px); }
+        50% { transform: rotate(0deg) translateY(-1px); }
+        75% { transform: rotate(-2.5deg) translateY(-3px); }
+      }
+      @keyframes breathe {
+        0%, 100% { transform: scale(1); opacity: 0.35; }
+        50% { transform: scale(1.02); opacity: 0.42; }
+      }
+      @keyframes blink {
+        0%, 42%, 44%, 90%, 92%, 100% { transform: scaleY(1); }
+        43%, 91% { transform: scaleY(0.1); }
+      }
+      @keyframes earWiggle {
+        0%, 100% { transform: rotate(0deg); }
+        30% { transform: rotate(-3deg); }
+        60% { transform: rotate(2deg); }
+      }
+      @keyframes shimmer {
+        0% { opacity: 0.15; }
+        50% { opacity: 0.30; }
+        100% { opacity: 0.15; }
+      }
+      @keyframes nosePulse {
+        0%, 100% { transform: scale(1); }
+        50% { transform: scale(1.05); }
+      }
+      @keyframes glowPulse {
+        0%, 100% { opacity: 0.08; r: 100; }
+        50% { opacity: 0.15; r: 120; }
+      }
+      .fox-body {
+        animation: breathe 4s ease-in-out infinite;
+        transform-origin: 400px 160px;
+      }
+      .fox-head {
+        animation: headTilt 6s ease-in-out infinite;
+        transform-origin: 400px 130px;
+      }
+      .fox-eyes {
+        animation: blink 5s ease-in-out infinite;
+        transform-origin: center;
+      }
+      .fox-left-ear {
+        animation: earWiggle 4s ease-in-out infinite;
+        transform-origin: 345px 55px;
+      }
+      .fox-right-ear {
+        animation: earWiggle 4s ease-in-out infinite 0.5s;
+        transform-origin: 455px 55px;
+      }
+      .fox-shimmer {
+        animation: shimmer 3s ease-in-out infinite;
+      }
+      .fox-nose {
+        animation: nosePulse 3s ease-in-out infinite;
+        transform-origin: 400px 168px;
+      }
+      .glow {
+        animation: glowPulse 4s ease-in-out infinite;
+      }
+    </style>
+    <!-- Gradients for polygon faces -->
+    <linearGradient id="foxGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f368e0"/>
+      <stop offset="100%" stop-color="#ee5a24"/>
+    </linearGradient>
+    <linearGradient id="foxGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff6b6b"/>
+      <stop offset="100%" stop-color="#f368e0"/>
+    </linearGradient>
+    <linearGradient id="foxGrad3" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ee5a24"/>
+      <stop offset="100%" stop-color="#ff9f43"/>
+    </linearGradient>
+    <linearGradient id="foxGrad4" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6c5ce7"/>
+      <stop offset="100%" stop-color="#f368e0"/>
+    </linearGradient>
+    <linearGradient id="foxGrad5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff9f43"/>
+      <stop offset="100%" stop-color="#ee5a24"/>
+    </linearGradient>
+    <linearGradient id="noseGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2d3436"/>
+      <stop offset="100%" stop-color="#636e72"/>
+    </linearGradient>
+    <linearGradient id="innerEar" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fab1a0"/>
+      <stop offset="100%" stop-color="#f368e0"/>
+    </linearGradient>
+    <linearGradient id="cheekGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffeaa7"/>
+      <stop offset="100%" stop-color="#fdcb6e"/>
+    </linearGradient>
+    <radialGradient id="glowGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f368e0" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#f368e0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background Glow -->
+  <circle class="glow" cx="400" cy="150" r="100" fill="url(#glowGrad)"/>
+
+  <!-- Main Fox Group -->
+  <g class="fox-body">
+    <g class="fox-head">
+
+      <!-- ===== LEFT EAR ===== -->
+      <g class="fox-left-ear">
+        <!-- Outer ear left -->
+        <polygon points="310,85 345,15 370,80" fill="url(#foxGrad2)" opacity="0.4"/>
+        <!-- Inner ear left -->
+        <polygon points="322,78 345,30 362,78" fill="url(#innerEar)" opacity="0.3"/>
+      </g>
+
+      <!-- ===== RIGHT EAR ===== -->
+      <g class="fox-right-ear">
+        <!-- Outer ear right -->
+        <polygon points="430,80 455,15 490,85" fill="url(#foxGrad3)" opacity="0.4"/>
+        <!-- Inner ear right -->
+        <polygon points="438,78 455,30 478,78" fill="url(#innerEar)" opacity="0.3"/>
+      </g>
+
+      <!-- ===== MAIN HEAD SHAPE (polygon facets) ===== -->
+      
+      <!-- Top of head - center -->
+      <polygon points="345,55 400,45 455,55 430,85 370,85" fill="url(#foxGrad1)" opacity="0.35"/>
+      
+      <!-- Forehead left -->
+      <polygon points="345,55 370,85 320,100" fill="url(#foxGrad2)" opacity="0.30"/>
+      
+      <!-- Forehead right -->
+      <polygon points="455,55 480,100 430,85" fill="url(#foxGrad3)" opacity="0.30"/>
+      
+      <!-- Upper face center -->
+      <polygon points="370,85 400,80 430,85 420,115 380,115" fill="url(#foxGrad5)" opacity="0.32"/>
+      
+      <!-- Left cheek upper -->
+      <polygon points="320,100 370,85 380,115 330,130" fill="url(#foxGrad2)" opacity="0.28"/>
+      
+      <!-- Right cheek upper -->
+      <polygon points="480,100 430,85 420,115 470,130" fill="url(#foxGrad3)" opacity="0.28"/>
+      
+      <!-- Middle face - center stripe -->
+      <polygon points="380,115 400,110 420,115 415,145 400,148 385,145" fill="url(#foxGrad1)" opacity="0.30"/>
+      
+      <!-- Left mid cheek -->
+      <polygon points="330,130 380,115 385,145 340,155" fill="url(#cheekGrad)" opacity="0.25"/>
+      
+      <!-- Right mid cheek -->
+      <polygon points="470,130 420,115 415,145 460,155" fill="url(#cheekGrad)" opacity="0.25"/>
+      
+      <!-- Left jaw -->
+      <polygon points="340,155 385,145 390,175 355,185" fill="url(#foxGrad2)" opacity="0.22"/>
+      
+      <!-- Right jaw -->
+      <polygon points="460,155 415,145 410,175 445,185" fill="url(#foxGrad3)" opacity="0.22"/>
+      
+      <!-- Lower face / chin -->
+      <polygon points="385,145 400,148 415,145 410,175 400,180 390,175" fill="url(#foxGrad5)" opacity="0.28"/>
+      
+      <!-- Chin tip -->
+      <polygon points="355,185 390,175 400,195 370,200" fill="url(#foxGrad2)" opacity="0.18"/>
+      <polygon points="445,185 410,175 400,195 430,200" fill="url(#foxGrad3)" opacity="0.18"/>
+      <polygon points="390,175 400,180 410,175 400,195" fill="url(#foxGrad4)" opacity="0.22"/>
+
+      <!-- ===== SHIMMER HIGHLIGHTS ===== -->
+      <g class="fox-shimmer">
+        <polygon points="370,85 400,80 385,95" fill="#ffffff" opacity="0.15"/>
+        <polygon points="400,80 430,85 415,95" fill="#ffffff" opacity="0.12"/>
+        <polygon points="345,55 365,60 355,75" fill="#ffffff" opacity="0.10"/>
+        <polygon points="455,55 435,60 445,75" fill="#ffffff" opacity="0.10"/>
+      </g>
+
+      <!-- ===== EYES ===== -->
+      <g class="fox-eyes">
+        <!-- Left eye -->
+        <ellipse cx="365" cy="120" rx="10" ry="10" fill="#2d3436" opacity="0.45"/>
+        <!-- Left eye shine -->
+        <circle cx="362" cy="117" r="3" fill="#ffffff" opacity="0.5"/>
+        <circle cx="369" cy="122" r="1.5" fill="#ffffff" opacity="0.3"/>
+        
+        <!-- Right eye -->
+        <ellipse cx="435" cy="120" rx="10" ry="10" fill="#2d3436" opacity="0.45"/>
+        <!-- Right eye shine -->
+        <circle cx="432" cy="117" r="3" fill="#ffffff" opacity="0.5"/>
+        <circle cx="439" cy="122" r="1.5" fill="#ffffff" opacity="0.3"/>
+      </g>
+
+      <!-- ===== NOSE ===== -->
+      <g class="fox-nose">
+        <polygon points="393,163 400,158 407,163 400,170" fill="url(#noseGrad)" opacity="0.4"/>
+        <!-- Nose shine -->
+        <ellipse cx="399" cy="162" rx="2" ry="1.5" fill="#ffffff" opacity="0.2"/>
+      </g>
+
+      <!-- ===== WHISKER DOTS ===== -->
+      <circle cx="345" cy="155" r="1.5" fill="#f368e0" opacity="0.2"/>
+      <circle cx="338" cy="150" r="1.2" fill="#f368e0" opacity="0.15"/>
+      <circle cx="335" cy="158" r="1" fill="#f368e0" opacity="0.12"/>
+      
+      <circle cx="455" cy="155" r="1.5" fill="#f368e0" opacity="0.2"/>
+      <circle cx="462" cy="150" r="1.2" fill="#f368e0" opacity="0.15"/>
+      <circle cx="465" cy="158" r="1" fill="#f368e0" opacity="0.12"/>
+
+    </g>
+  </g>
+</svg>
