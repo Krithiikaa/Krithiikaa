@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,20:ee5a24,40:f368e0,60:6c5ce7,80:0abde3,100:10ac84&height=300&section=header&text=Kiruthigaa%20K&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=@Krithiikaa%20%E2%80%A2%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Creator&descAlignY=55&descSize=22&descColor=ecf0f1&stroke=ffffff&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&customColorList=12,14,16,18,20,22,24&height=300&section=header&text=Kiruthigaa%20K&fontSize=80&fontColor=f368e0&animation=scaleIn&fontAlignY=38&desc=@Krithiikaa%20%E2%80%A2%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Creator&descAlignY=58&descSize=20&descColor=c9d1d9" width="100%" />
+</p>
+
+<!-- Animated Neon Bar -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b6b,20:ee5a24,40:f368e0,60:6c5ce7,80:0abde3,100:10ac84&height=2" width="100%" />
 </p>
 
 <div align="center">
@@ -196,8 +201,10 @@ export default Krithiikaa;
 
 <td align="center" width="25%" valign="top">
 
-### 🖥️
-### Dashboards
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="40" />
+<br/>
+<b>Dashboards</b>
+<br/><br/>
 <sub>Real-time data visualization<br/>systems that monitor,<br/>alert, and inform with<br/>live data feeds &<br/>interactive charts</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/-GPS_Tracker-ff6b6b?style=flat-square" />
@@ -208,8 +215,10 @@ export default Krithiikaa;
 
 <td align="center" width="25%" valign="top">
 
-### ⚛️
-### Web Apps
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="40" />
+<br/>
+<b>Web Apps</b>
+<br/><br/>
 <sub>Full-stack applications<br/>with React, Node.js,<br/>MongoDB & Socket.IO<br/>featuring real-time<br/>communication</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/-HelpDesk-f368e0?style=flat-square" />
@@ -220,8 +229,10 @@ export default Krithiikaa;
 
 <td align="center" width="25%" valign="top">
 
-### 🤖
-### AI & ML
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="40" />
+<br/>
+<b>AI & ML</b>
+<br/><br/>
 <sub>Machine learning pipelines,<br/>prediction systems,<br/>computer vision tools<br/>& intelligent<br/>automation</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/-Predictive_AI-ee5a24?style=flat-square" />
@@ -232,8 +243,10 @@ export default Krithiikaa;
 
 <td align="center" width="25%" valign="top">
 
-### 🎨
-### UI/UX Design
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="40" />
+<br/>
+<b>UI/UX Design</b>
+<br/><br/>
 <sub>Crafting clean, intuitive<br/>interfaces with<br/>accessibility & empathy<br/>at the core of<br/>every design</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/-CreditBridge-ff6b6b?style=flat-square" />
@@ -251,45 +264,6 @@ export default Krithiikaa;
 
 <!-- Rainbow Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="30" /> &nbsp;Featured Projects
-
-<div align="center">
-
-<!-- Row 1 -->
-<a href="https://github.com/Krithiikaa/HELPDESK-Team-35">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krithiikaa&repo=HELPDESK-Team-35&theme=radical&hide_border=true&bg_color=0d1117&title_color=f368e0&icon_color=ff6b6b&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/Krithiikaa/GPS-Map-With-RangeFinder-Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krithiikaa&repo=GPS-Map-With-RangeFinder-Dashboard&theme=radical&hide_border=true&bg_color=0d1117&title_color=0abde3&icon_color=10ac84&text_color=c9d1d9" />
-</a>
-
-<br/>
-
-<!-- Row 2 -->
-<a href="https://github.com/Krithiikaa/Version-2-Military-Surveillance">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krithiikaa&repo=Version-2-Military-Surveillance&theme=radical&hide_border=true&bg_color=0d1117&title_color=6c5ce7&icon_color=f368e0&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/Krithiikaa/Predictive-Hiring-with-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krithiikaa&repo=Predictive-Hiring-with-AI&theme=radical&hide_border=true&bg_color=0d1117&title_color=ee5a24&icon_color=ff6b6b&text_color=c9d1d9" />
-</a>
-
-<br/>
-
-<!-- Row 3 -->
-<a href="https://github.com/Krithiikaa/V1-Air-Quality-Sensor-Dashboard-Simulation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krithiikaa&repo=V1-Air-Quality-Sensor-Dashboard-Simulation&theme=radical&hide_border=true&bg_color=0d1117&title_color=10ac84&icon_color=0abde3&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/Krithiikaa/fog-remover">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krithiikaa&repo=fog-remover&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ee5a24&text_color=c9d1d9" />
-</a>
-
-</div>
 
 <br/>
 
@@ -387,6 +361,52 @@ export default Krithiikaa;
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=2000&color=FFD700&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%F0%9F%8F%86+Hackathon+Champion+%7C+National+Winner+%7C+Builder" alt="Achievement Typing" />
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/%F0%9F%A5%87_JOINT_WINNER-FFD700?style=for-the-badge&labelColor=2d3436" />
+<br/><br/>
+<img src="./assets/sih-2025-winner.jpeg" width="90%" style="border-radius:12px" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Smart_India_Hackathon_2025-0055FF?style=for-the-badge&labelColor=1a1a2e" />
+<br/>
+<img src="https://img.shields.io/badge/Grand_Finale_%7C_Hardware_Edition-ff6b6b?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/Team_ImpactX_Innovators-10ac84?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/%E2%82%B975%2C000_Prize-FFD700?style=flat-square&labelColor=2d3436" />
+<br/>
+<sub><b>"Hack for BHARAT, Build for the World"</b></sub>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/%F0%9F%A5%88_2ND_PLACE-C0C0C0?style=for-the-badge&labelColor=2d3436" />
+<br/><br/>
+<img src="./assets/innohack-2026-winner.jpeg" width="90%" style="border-radius:12px" />
+<br/><br/>
+<img src="https://img.shields.io/badge/INNOHACK_2026_%7C_VIT-6c5ce7?style=for-the-badge&labelColor=1a1a2e" />
+<br/>
+<img src="https://img.shields.io/badge/AR%2FVR_%26_IoT_Track-f368e0?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/Team_Tech_Mavericks-0abde3?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/%E2%82%B930%2C000_Prize-C0C0C0?style=flat-square&labelColor=2d3436" />
+<br/>
+<sub><b>VIT Institution's Innovation Council</b></sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=Krithiikaa&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" />
 
 </div>
