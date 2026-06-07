@@ -1,7 +1,12 @@
-<!-- ✦ Professional Header with Gradient Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:16213e,60:0f3460,100:533483&height=250&section=header&text=Kiruthigaa%20K&fontSize=72&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A7%20%40Krithiikaa%20%E2%80%A2%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Creator%20%E2%9C%A7&descAlignY=55&descSize=18&descColor=c4b5fd" width="100%" />
 </p>
+
+<div align="center">
+  <img src="./assets/welcome-animation.gif" width="100%" alt="Welcome Animation" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -9,8 +14,6 @@
 <a href="https://github.com/Krithiikaa">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=80&lines=%F0%9F%9A%80+Computer+Science+Engineer+%7C+Full-Stack+Developer+%7C+System+Designer;%E2%9C%A8+Building+real-world+systems+that+matter+%E2%80%94+one+commit+at+a+time" alt="Typing SVG" />
 </a>
-
-<br/>
 
 <!-- Professional Role Tags -->
 <img src="https://img.shields.io/badge/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB_TECH--DRIVEN_WOMAN-c4b5fd?style=for-the-badge&labelColor=1a1a2e" />
@@ -50,7 +53,7 @@
 
 > *🚀 Computer Science Engineer by skill, builder by mindset.*
 > 
-> *👩‍💻⚡ A tech-driven woman shaping systems with precision and purpose. ⚙️✨*
+> *👩💻⚡ A tech-driven woman shaping systems with precision and purpose. ⚙️✨*
 
 I design and build **real-world inspired dashboards, system interfaces, and intelligent web applications** that sit at the intersection of **UI, data, and engineering**.
 
@@ -172,7 +175,7 @@ export default Krithiikaa;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </td>
