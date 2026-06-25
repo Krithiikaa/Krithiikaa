@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/Kiru-ASCII-V3.svg" width="100%" alt="KIRUTHIGAA K" />
+  <img src="./assets/Kiru-ASCII-V1.svg" width="100%" alt="KIRUTHIGAA K" />
 </div>
 
 <div align="center">
