@@ -1,5 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:16213e,60:0f3460,100:533483&height=250&section=header&text=Kiruthigaa%20K&fontSize=72&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A7%20%40Krithiikaa%20%E2%80%A2%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Creator%20%E2%9C%A7&descAlignY=55&descSize=18&descColor=c4b5fd" width="100%" />
+  <code>
+██╗  ██╗██╗██████╗ ██╗   ██╗████████╗██╗ ██████╗  █████╗  █████╗ 
+██║ ██╔╝██║██╔══██╗██║   ██║╚══██╔══╝██║██╔════╝ ██╔══██╗██╔══██╗
+█████╔╝ ██║██████╔╝██║   ██║   ██║   ██║██║  ███╗███████║███████║
+██╔═██╗ ██║██╔══██╗██║   ██║   ██║   ██║██║   ██║██╔══██║██╔══██║
+██║  ██╗██║██║  ██║╚██████╔╝   ██║   ██║╚██████╔╝██║  ██║██║  ██║
+╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+  </code>
+</p>
+<p align="center">
+  <strong>✨ AI Product Engineer • Full-Stack Builder • Targeting 🎯 ZOHO •  ✨</strong>
 </p>
 
 <div align="center">
