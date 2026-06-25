@@ -1,19 +1,9 @@
-<p align="center">
-  <code>
-██╗  ██╗██╗██████╗ ██╗   ██╗████████╗██╗ ██████╗  █████╗  █████╗ 
-██║ ██╔╝██║██╔══██╗██║   ██║╚══██╔══╝██║██╔════╝ ██╔══██╗██╔══██╗
-█████╔╝ ██║██████╔╝██║   ██║   ██║   ██║██║  ███╗███████║███████║
-██╔═██╗ ██║██╔══██╗██║   ██║   ██║   ██║██║   ██║██╔══██║██╔══██║
-██║  ██╗██║██║  ██║╚██████╔╝   ██║   ██║╚██████╔╝██║  ██║██║  ██║
-╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-  </code>
-</p>
-<p align="center">
-  <strong>✨ AI Product Engineer • Full-Stack Builder • Targeting 🎯 ZOHO •  ✨</strong>
-</p>
+<div align="center">
+  <img src="./assets/Kiru-ASCII-V3.svg" width="100%" alt="KIRUTHIGAA K" />
+</div>
 
 <div align="center">
-  <img src="./assets/welcome-animation.gif" width="100%" alt="Welcome Animation" />
+  <img src="./assets/Aesthetic-girl-Coding.gif" width="100%" alt="Welcome Animation" />
 </div>
 
 <br/>
@@ -26,17 +16,17 @@
 </a>
 
 <!-- Professional Role Tags -->
-<img src="https://img.shields.io/badge/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB_TECH--DRIVEN_WOMAN-c4b5fd?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB_TECH--DRIVEN-c4b5fd?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/%E2%9A%A1_SHAPING_SYSTEMS-93c5fd?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/%F0%9F%94%A5_WITH_PRECISION_&_PURPOSE-f9a8d4?style=for-the-badge&labelColor=1a1a2e" />
 
 <br/><br/>
 
 <!-- Social Links -->
-<a href="https://www.linkedin.com/in/krithikaa-rajkumaar/">
+<a href="https://www.linkedin.com/in/kiruthigaa-k/">
   <img src="https://img.shields.io/badge/-Krithikaa_Rajkumaar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/Krithiikaa?tab=repositories">
+<a href="https://github.com/Krithiikaa/">
   <img src="https://img.shields.io/badge/-21_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/Krithiikaa?tab=followers">
